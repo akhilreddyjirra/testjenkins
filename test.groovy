@@ -1,1 +1,1 @@
-import src.main.groovy.groovy.model
+import src.bcgov
